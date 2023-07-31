@@ -16,7 +16,7 @@
 * Restart Discord to complete the installation.
 * Embrace the power of DiscordChannelSpy and embark on an extraordinary journey!
 
-* Preview
+## Example
 ![image](https://user-images.githubusercontent.com/54294419/225766894-48d40546-ed7a-4794-888f-f0aafba26100.png)
 
 ## How can I support this project?
