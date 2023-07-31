@@ -1,3 +1,5 @@
+# DiscordChannelSpy
+
 * DiscordChannelSpy is an innovative plugin for BetterDiscord that grants you unprecedented access to concealed channels within Discord servers! 🕵️‍♂️🔍 Delve into the mysteries of hidden channels, uncovering vital information such as their names, descriptions, and the roles or users with access.
 
 * Kindly note that this plugin is solely intended for displaying channel information, and it does not provide access to read the messages within these channels.
